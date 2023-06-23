@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" href="images/favicon/favicon.ico" type="image/x-icon">
+  <title>Produk</title>
+  <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="vendor/bootstrap/bootstrap.min.css">
+  <link rel="stylesheet" href="vendor/bootstrap/bootstrap-icons.css">
+  <link rel="stylesheet" href="css/rk.css">
+  <script src="vendor/bootstrap/bootstrap.bundle.min.js"></script>
+  <script src="js/jquery-3.6.3.min.js"></script>
+  <style>
+    /* tulis kode CSS internal di bawah sini */
+    :root {
+      --bs-success-rgb: 98, 109, 113;
+    }
+
+    .card img {
+      height: 250px;
+      object-fit: cover;
+    }
+
+    .card h5.card-title {
+      height: 50px;
+    }
+    /* Batas Akhir penulisan kode CSS internal */
+  </style>
+</head>
+
+<body>
+  <!-- Tulis Kode Bootstrap Di Bawah Sini -->
+
+  <nav class="navbar navbar-dark bg-success navbar-expand-lg bisadicopy">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">
+        <img src="images/logo/logo_kuy.png" height="40" alt="image">
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav11" aria-controls="navbarNav11" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav11">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="index.html#best-seller">Best Seller</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="index.html#our-team">Our Team</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="index.html#review">Review</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="index.html#contact-us">Contact Us</a>
+          </li>
+        </ul>
+        <a class="btn btn-outline-light ms-md-3" target="_blank" href="https://wa.me/6281290465033"><i class="bi bi-whatsapp"></i> Chat</a>
+      </div>
+    </div>
+  </nav>
+
+  <section class="produk mt-5 mb-5 text-center">
+
+    <div class="container">
+      <h1>Pilih Produk Anda</h1>
+      <p>Kualitas terbaik biji kopi pilihan, Fresh diambil langsung dari petani</p>
+      <hr class="border border-success border-3 opacity-75">
+      <div class="form-floating mb-3">
+        <select class="form-select" id="select_kopi">
+          <option disabled selected>-</option>
+          <option value="arabica">Arabica</option>
+          <option value="robusta">Robusta</option>
+        </select>
+        <label for="select_kopi">Pilih Jenis Kopi</label>
+      </div>
+      <!--Kode selanjutnya di paste di bawah ini-->
+
+      <div id="baris_produk" class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4"></div>
+    </div>
+    </div>
+    </div>
+    </div>
+
+  </section>
+
+  <footer class="bg-success py-4">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-md-8">
+          <ul class="nav">
+            <li class="nav-item">
+              <a class="nav-link link-light active" aria-current="page" href="index.html">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link link-light" href="index.html#best-seller">Best Seller</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link link-light" href="index.html#our-team">Our Team</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link link-light" href="index.html#review">Review</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link link-light" href="index.html#contact-us">Contact Us</a>
+            </li>
+          </ul>
+        </div>
+        <div class="col-md-4 text-light text-end">
+          Copyright Kopi Kuy 2023
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Batas Akhir penulisan kode Bootstrap -->
+  <script>
+    /* Tulis Javascript Di bawah Sini */
+
+    var sumber = "https://rikikurnia.com/prakerja/api/kopi"
+    var sumber2 = "data.json"
+
+    select_kopi.onchange = function() {
+      var dipilih = select_kopi.value
+      ambilData(dipilih)
+    }
+
+    function ambilData(dipilih) {
+      console.log(dipilih)
+
+      var template = ""
+
+      $.getJSON(sumber).then(function(data) {
+        var data_kopi = data[dipilih]
+        console.log(data_kopi)
+
+data_kopi.forEach(kopi => {
+  template += 
+  `<div class="col mb-3">
+      <div class="card">
+      <img src="${kopi.foto}" class="card-img-top" alt="...">
+          <div class="card-body">
+              <h5 class="card-title">${kopi.nama}
+              </h5>
+                      <div class="hargaukuran row my-3">
+                              <div class="col">${kopi.size}
+                              </div>
+                          <div class="col">${kopi.harga}
+                          </div>
+                      </div>
+              <a target="_blank" href="${kopi.link}" class="btn btn-success w-100">
+                  <i class="bi bi-basket">
+                  </i> Beli
+              </a>
+          </div>
+      </div>
+  </div>`
+        })
+
+        baris_produk.innerHTML = template
+      })
+      /* Kode berikutnya paste di bawah ini persis */
+
+    }
+
+    /* Batas Akhir penulisan kode Javascript */
+  </script>
+</body>
+
+</html>
