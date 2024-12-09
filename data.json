@@ -1,57 +1,120 @@
 {
     "sayuran": [
         {
-            "foto": "images/produk/product_capuchino.jpg",
-            "nama": "Cappuccino Arabica",
-            "size": "500 Gram",
-            "harga": "200.000",
-            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+            "foto": "images/produk/bawang_merah.jpg",
+            "nama": "Bawang Merah",
+            "size": "1 Kg",
+            "harga": "Rp.******",
+            "link": "https://wa.me/6282280006066"
         },
         {
-            "foto": "images/produk/product_espresso.jpg",
-            "nama": "Pahit Arabica",
-            "size": "100 Gram",
-            "harga": "100.000",
-            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+            "foto": "images/produk/bawang_merah_kupas.jpg",
+            "nama": "Bawang Merah Kupas",
+            "size": "1 Kg",
+            "harga": "Rp.******",
+            "link": "https://wa.me/6282280006066"
         },
         {
-            "foto": "images/produk/product_latte.jpg",
-            "nama": "Latte Arabica",
-            "size": "150 Gram",
-            "harga": "150.000",
-            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+            "foto": "images/produk/brokoli.jpg",
+            "nama": "Brokoli",
+            "size": "1 Kg",
+            "harga": "Rp.******",
+            "link": "https://wa.me/6282280006066"
+        },
+        {
+            "foto": "images/produk/buncis.jpg",
+            "nama": "Buncis",
+            "size": "1 Kg",
+            "harga": "Rp.******",
+            "link": "https://wa.me/6282280006066"
+        },
+        {
+            "foto": "images/produk/buncis_baby.jpg",
+            "nama": "Buncis Baby",
+            "size": "1 Kg",
+            "harga": "Rp.******",
+            "link": "https://wa.me/6282280006066"
+        },
+        {
+            "foto": "images/produk/cabe_hijau_besar.jpg",
+            "nama": "Cabe Hijau Besar",
+            "size": "1 Kg",
+            "harga": "Rp.******",
+            "link": "https://wa.me/6282280006066"
+        },
+        {
+            "foto": "images/produk/cabe_hijau_keriting.jpg",
+            "nama": "Cabe Hijau Keriting",
+            "size": "1 Kg",
+            "harga": "Rp.******",
+            "link": "https://wa.me/6282280006066"
+        },
+        {
+            "foto": "images/produk/cabe_rawit_hijau.jpg",
+            "nama": "Cabe Rawit Hijau",
+            "size": "1 Kg",
+            "harga": "Rp.******",
+            "link": "https://wa.me/6282280006066"
+        },
+        {
+            "foto": "images/produk/cabe_rawit_merah.jpg",
+            "nama": "Cabe Rawit Merah",
+            "size": "1 Kg",
+            "harga": "Rp.******",
+            "link": "https://wa.me/6282280006066"
+        },
+        {
+            "foto": "images/produk/cabe_merah_keriting.jpg",
+            "nama": "Cabe Merah Keriting",
+            "size": "1 Kg",
+            "harga": "Rp.******",
+            "link": "https://wa.me/6282280006066"
         }
     ],
     "ayam_frozen": [
         {
-            "foto": "images/produk/product_kopi_susu.jpg",
-            "nama": "Kopsus Robusta",
-            "size": "100 Gram",
-            "harga": "500.000",
-            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+            "foto": "images/produk/ayam_utuh.jpg",
+            "nama": "Ayam Utuh",
+            "size": "1 Kg",
+            "harga": "Rp.******",
+            "link": "https://wa.me/6282280006066"
         },
         {
-            "foto": "images/produk/product_latte.jpg",
-            "nama": "Latte Robusta",
-            "size": "150 Gram",
-            "harga": "150.000",
-            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+            "foto": "images/produk/ayam_dada.jpg",
+            "nama": "Ayam Dada",
+            "size": "1 Kg",
+            "harga": "Rp.******",
+            "link": "https://wa.me/6282280006066"
+        },
+        {
+            "foto": "images/produk/ayam_sayap.jpg",
+            "nama": "Ayam Sayap",
+            "size": "1 Kg",
+            "harga": "Rp.******",
+            "link": "https://wa.me/6282280006066"
+        },
+        {
+            "foto": "images/produk/ayam_paha_atas.jpg",
+            "nama": "Ayam Paha Atas",
+            "size": "1 Kg",
+            "harga": "Rp.******",
+            "link": "https://wa.me/6282280006066"
+        },
+        {
+            "foto": "images/produk/ayam_paha_bawah.jpg",
+            "nama": "Ayam Paha Bawah",
+            "size": "1 Kg",
+            "harga": "Rp.******",
+            "link": "https://wa.me/6282280006066"
         }
     ],
     "telur": [
         {
-            "foto": "images/produk/product_kopi_susu.jpg",
-            "nama": "Kopsus Robusta",
-            "size": "100 Gram",
-            "harga": "500.000",
-            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
-        },
-        {
-            "foto": "images/produk/product_latte.jpg",
-            "nama": "Latte Robusta",
-            "size": "150 Gram",
-            "harga": "150.000",
-            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+            "foto": "images/produk/telur_ayam.jpg",
+            "nama": "Telur Ayam",
+            "size": "1 Kg",
+            "harga": "Rp.******",
+            "link": "https://wa.me/6282280006066"
         }
     ]
 }
