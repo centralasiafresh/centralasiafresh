@@ -1,5 +1,5 @@
 {
-    "arabica": [
+    "sayuran": [
         {
             "foto": "images/produk/product_capuchino.jpg",
             "nama": "Cappuccino Arabica",
@@ -22,7 +22,23 @@
             "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
         }
     ],
-    "robusta": [
+    "ayam_frozen": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "telur": [
         {
             "foto": "images/produk/product_kopi_susu.jpg",
             "nama": "Kopsus Robusta",
