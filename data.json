@@ -1,70 +1,70 @@
 {
     "sayuran": [
         {
-            "foto": "images/produk/bawang_merah.jpg",
+            "foto": "produk/bawangmerah.jpg",
             "nama": "Bawang Merah",
             "size": "1 Kg",
             "harga": "Rp.******",
             "link": "https://wa.me/6282280006066"
         },
         {
-            "foto": "images/produk/bawang_merah_kupas.jpg",
+            "foto": "produk/bawangmerahkupas.jpg",
             "nama": "Bawang Merah Kupas",
             "size": "1 Kg",
             "harga": "Rp.******",
             "link": "https://wa.me/6282280006066"
         },
         {
-            "foto": "images/produk/brokoli.jpg",
+            "foto": "produk/brokoli.jpg",
             "nama": "Brokoli",
             "size": "1 Kg",
             "harga": "Rp.******",
             "link": "https://wa.me/6282280006066"
         },
         {
-            "foto": "images/produk/buncis.jpg",
+            "foto": "produk/buncis.jpg",
             "nama": "Buncis",
             "size": "1 Kg",
             "harga": "Rp.******",
             "link": "https://wa.me/6282280006066"
         },
         {
-            "foto": "images/produk/buncis_baby.jpg",
+            "foto": "produk/buncisbaby.jpg",
             "nama": "Buncis Baby",
             "size": "1 Kg",
             "harga": "Rp.******",
             "link": "https://wa.me/6282280006066"
         },
         {
-            "foto": "images/produk/cabe_hijau_besar.jpg",
+            "foto": "produk/cabehijaubesar.jpg",
             "nama": "Cabe Hijau Besar",
             "size": "1 Kg",
             "harga": "Rp.******",
             "link": "https://wa.me/6282280006066"
         },
         {
-            "foto": "images/produk/cabe_hijau_keriting.jpg",
+            "foto": "produk/cabehijaukeriting.jpg",
             "nama": "Cabe Hijau Keriting",
             "size": "1 Kg",
             "harga": "Rp.******",
             "link": "https://wa.me/6282280006066"
         },
         {
-            "foto": "images/produk/cabe_rawit_hijau.jpg",
+            "foto": "produk/caberawithijau.jpg",
             "nama": "Cabe Rawit Hijau",
             "size": "1 Kg",
             "harga": "Rp.******",
             "link": "https://wa.me/6282280006066"
         },
         {
-            "foto": "images/produk/cabe_rawit_merah.jpg",
+            "foto": "produk/caberawitmerah.jpg",
             "nama": "Cabe Rawit Merah",
             "size": "1 Kg",
             "harga": "Rp.******",
             "link": "https://wa.me/6282280006066"
         },
         {
-            "foto": "images/produk/cabe_merah_keriting.jpg",
+            "foto": "produk/cabemerahkeriting.jpg",
             "nama": "Cabe Merah Keriting",
             "size": "1 Kg",
             "harga": "Rp.******",
@@ -73,47 +73,47 @@
     ],
     "ayam_frozen": [
         {
-            "foto": "images/produk/ayam_utuh.jpg",
+            "foto": "produk/ayamutuh.jpg",
             "nama": "Ayam Utuh",
             "size": "1 Kg",
-            "harga": "Rp.******",
+            "harga": "Rp.Coming Soon",
             "link": "https://wa.me/6282280006066"
         },
         {
-            "foto": "images/produk/ayam_dada.jpg",
+            "foto": "produk/ayamdada.jpg",
             "nama": "Ayam Dada",
             "size": "1 Kg",
-            "harga": "Rp.******",
+            "harga": "Rp.Coming Soon",
             "link": "https://wa.me/6282280006066"
         },
         {
-            "foto": "images/produk/ayam_sayap.jpg",
+            "foto": "produk/ayamsayap.jpg",
             "nama": "Ayam Sayap",
             "size": "1 Kg",
-            "harga": "Rp.******",
+            "harga": "Rp.Coming Soon",
             "link": "https://wa.me/6282280006066"
         },
         {
-            "foto": "images/produk/ayam_paha_atas.jpg",
+            "foto": "produk/ayampahaatas.jpg",
             "nama": "Ayam Paha Atas",
             "size": "1 Kg",
-            "harga": "Rp.******",
+            "harga": "Rp.Coming Soon",
             "link": "https://wa.me/6282280006066"
         },
         {
-            "foto": "images/produk/ayam_paha_bawah.jpg",
+            "foto": "produk/ayampahabawah.jpg",
             "nama": "Ayam Paha Bawah",
             "size": "1 Kg",
-            "harga": "Rp.******",
+            "harga": "Rp.Coming Soon",
             "link": "https://wa.me/6282280006066"
         }
     ],
     "telur": [
         {
-            "foto": "images/produk/telur_ayam.jpg",
+            "foto": "produk/telurayam.jpg",
             "nama": "Telur Ayam",
             "size": "1 Kg",
-            "harga": "Rp.******",
+            "harga": "Rp.Coming Soon",
             "link": "https://wa.me/6282280006066"
         }
     ]
