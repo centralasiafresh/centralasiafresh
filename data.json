@@ -41,6 +41,13 @@
             "size": "1 Kg",
             "harga": "Rp.******",
             "link": "https://wa.me/6282280006066"
+        }, 
+{
+            "foto": "produk/bengkuang.jpg",
+            "nama": "Bengkuang",
+            "size": "1 Kg",
+            "harga": "Rp.******",
+            "link": "https://wa.me/6282280006066"
         },
         {
             "foto": "produk/brokoli.jpg",
@@ -351,8 +358,8 @@
             "link": "https://wa.me/6282280006066"
         },
 {
-            "foto": "produk/labusiem.jpg",
-            "nama": "Labu Siem",
+            "foto": "produk/labusiam.jpg",
+            "nama": "Labu Siam",
             "size": "1 Kg",
             "harga": "Rp.******",
             "link": "https://wa.me/6282280006066"
@@ -510,6 +517,34 @@
             "size": "1 Kg",
             "harga": "Rp.******",
             "link": "https://wa.me/6282280006066"
+        }, 
+{
+            "foto": "produk/singkong.jpg",
+            "nama": "Singkong",
+            "size": "1 Kg",
+            "harga": "Rp.******",
+            "link": "https://wa.me/6282280006066"
+        }, 
+{
+            "foto": "produk/ubimerah.jpg",
+            "nama": "Ubi Merah",
+            "size": "1 Kg",
+            "harga": "Rp.******",
+            "link": "https://wa.me/6282280006066"
+        }, 
+{
+            "foto": "produk/ubiputih.jpg",
+            "nama": "Ubi Putih",
+            "size": "1 Kg",
+            "harga": "Rp.******",
+            "link": "https://wa.me/6282280006066"
+        }, 
+{
+            "foto": "produk/ubiungu.jpg",
+            "nama": "Ubi Ungu",
+            "size": "1 Kg",
+            "harga": "Rp.******",
+            "link": "https://wa.me/6282280006066"
         },
 {
             "foto": "produk/wortelimpor.jpg",
@@ -528,8 +563,8 @@
 ],
 "buah": [
 {
-            "foto": "produk/alpuketmentega.jpg",
-            "nama": "Alpuket Mentega",
+            "foto": "produk/alpukatmentega.jpg",
+            "nama": "Alpukat Mentega",
             "size": "1 Kg",
             "harga": "Rp.******",
             "link": "https://wa.me/6282280006066"
@@ -537,13 +572,6 @@
 {
             "foto": "produk/apelfuji.jpg",
             "nama": "Apel Fuji",
-            "size": "1 Kg",
-            "harga": "Rp.******",
-            "link": "https://wa.me/6282280006066"
-        }, 
-{
-            "foto": "produk/bengkuang.jpg",
-            "nama": "Bengkuang",
             "size": "1 Kg",
             "harga": "Rp.******",
             "link": "https://wa.me/6282280006066"
@@ -621,34 +649,6 @@
 {
             "foto": "produk/salak.jpg",
             "nama": "Salak",
-            "size": "1 Kg",
-            "harga": "Rp.******",
-            "link": "https://wa.me/6282280006066"
-        }, 
-{
-            "foto": "produk/singkong.jpg",
-            "nama": "Singkong",
-            "size": "1 Kg",
-            "harga": "Rp.******",
-            "link": "https://wa.me/6282280006066"
-        }, 
-{
-            "foto": "produk/ubimerah.jpg",
-            "nama": "Ubi Merah",
-            "size": "1 Kg",
-            "harga": "Rp.******",
-            "link": "https://wa.me/6282280006066"
-        }, 
-{
-            "foto": "produk/ubiputih.jpg",
-            "nama": "Ubi Putih",
-            "size": "1 Kg",
-            "harga": "Rp.******",
-            "link": "https://wa.me/6282280006066"
-        }, 
-{
-            "foto": "produk/ubiungu.jpg",
-            "nama": "Ubi Ungu",
             "size": "1 Kg",
             "harga": "Rp.******",
             "link": "https://wa.me/6282280006066"
