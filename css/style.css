@@ -59,10 +59,10 @@ img {
 
 nav {
   /* background-color mengatur warna latar belakang */
-  background-color: #626D71;
+  background-color: #7CDEDF;
 
   /* penulisan 2 background-color seperti ini akan mengabaikan penulisan sebelumnya */
-  background-color: #626D71;
+  background-color: #7CDEDF;
 
   /* box-shadow membuat efek bayangan */
   box-shadow: 0 3px 7px -2px #CDCDC0;
