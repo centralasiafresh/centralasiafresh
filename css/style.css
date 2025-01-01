@@ -208,7 +208,7 @@ section {
   position: relative;
 
   /* background-color mengatur warna latar belakang elemen */
-  background-color: #CDCDC0;
+  background-color: #7CDEDF;
 }
 
 /* 
@@ -285,7 +285,7 @@ terkait layout pada CSS untuk dapat memahami secara penuh
 /* About US */
 
 .about-us {
-  background-color: #DDBC95;
+  background-color: #B7F7F7;
   /* max-width: 80%; mengatur panjang maksimal elemen tidak boleh melebihi 80% layar */
   max-width: 80%;
 
@@ -324,7 +324,7 @@ terkait layout pada CSS untuk dapat memahami secara penuh
 /* OUR TEAM */
 
 .our-team {
-  background-color: #B38867;
+  background-color: #EBFFFD;
   box-shadow: inset 0px 0px 23px -6px #707070;
 }
 
@@ -355,7 +355,7 @@ terkait layout pada CSS untuk dapat memahami secara penuh
 /* REVIEW */
 
 .review {
-  background-color: #DDBC95;
+  background-color: #FFF7C6;
   background-image: url(../images/bg-review.svg);
   /* 
       background-size: contain;
@@ -412,7 +412,7 @@ terkait layout pada CSS untuk dapat memahami secara penuh
 
 /* CONTACT US */
 .contact-us {
-  background-color: #CDCDC0;
+  background-color: #FDE896;
   margin-bottom: 20px;
 }
 
@@ -426,7 +426,7 @@ terkait layout pada CSS untuk dapat memahami secara penuh
 /* FOOTER */
 
 footer {
-  background-color: #626D71;
+  background-color: #7CDEDF;
   padding-top: 15px;
   padding-bottom: 15px;
   color: #fff;
